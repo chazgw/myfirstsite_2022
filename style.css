@@ -1,0 +1,37 @@
+/*
+Theme Name: My First Theme
+Version: 1.0
+Author: Chaz Wall
+*/
+
+body {
+	padding: 1em;
+	color: black;
+	background-color: white;
+}
+
+h1, h2, h3 {
+  padding: .5em;
+}
+
+h4, h5, h6 {
+  padding: .3em;
+}
+
+h1, h3 {
+	color: CadetBlue;
+}
+
+h2, h4 {
+	color: Chocolate;
+}
+
+div {
+	padding: 1em;
+}
+
+#left-sidebar {
+	background-color: Black;
+	float:left;
+  
+}
